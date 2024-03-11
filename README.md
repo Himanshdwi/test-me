@@ -9,7 +9,7 @@ A PSD to HTML conversion, I was given a file from which I extracted the images. 
 ## Table of Contents
 
 [Technologies](#technologies)<br>
-[Usage](#usage)<br>
+[Usage](Screenshot_2024-03-11-15-36-02-176_com.android.chrome.jpg)<br>
 [Credits](#credits)<br>
 [Questions](#questions)<br>
 
@@ -24,7 +24,7 @@ A PSD to HTML conversion, I was given a file from which I extracted the images. 
 
 ## Usage
 
-![](/images/screenshot1.jpg)
+![](images/Screenshot_2024-03-11-15-36-02-176_com.android.chrome.jpg.jpg)
 
 
 ## Questions :question:
