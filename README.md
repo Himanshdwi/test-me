@@ -31,6 +31,6 @@ A PSD to HTML conversion, I was given a file from which I extracted the images. 
 
 For further questions on this project or future collaboration contact me at:<br>
 
-- GitHub: []()
-- Email: priyanshu2601mishra@gmail.com
-- Repository link: [skill-test1]()
+- GitHub: [@Himanshidwi](https://github.com/Himanshdwi)
+- Email: miss.himanshidwivedi@gmail.com
+- Repository link: [skill-test1](https://github.com/Himanshdwi/test-me)
